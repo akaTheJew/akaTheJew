@@ -69,9 +69,9 @@ Tips:
 
 <!-- 🏆 GitHub Trophies (Optional Flair) -->
 ### 🏆 GitHub Profile Trophy
-
+<!--
 ![Trophies](https://github-profile-trophy.vercel.app/?username=akaTheJew&theme=algolia&margin-w=10&margin-h=10)
-
+-->
 ---
 
 <!-- 📊 GitHub Stats 
