@@ -55,7 +55,7 @@ Tips:
 
 ---
 
-<!-- 🚀 Featured Projects -->
+<!-- 🚀 Featured Projects 
 ### 🚀 Featured Projects
 
 > ✨ *Add direct links to your most impressive work below:*
@@ -63,6 +63,7 @@ Tips:
 - 🔐 [Encrypted Sandbox Manager](https://github.com/your-repo-link): Secure file & app isolation using eCryptfs + Firejail.
 - 🤖 [AI Chatbot Engine](https://github.com/your-repo-link): A WhatsApp/Messenger bot with Botpress & OpenAI.
 - 📊 [DataViz Dashboard](https://github.com/your-repo-link): Flask-powered dashboards with Plotly, Pandas, and machine learning.
+-->
 
 ---
 
@@ -73,7 +74,7 @@ Tips:
 
 ---
 
-<!-- 📊 GitHub Stats -->
+<!-- 📊 GitHub Stats 
 ### 📈 GitHub Stats
 
 <a href="http://www.github.com/akaTheJew">
@@ -83,11 +84,12 @@ Tips:
 <a href="http://www.github.com/akaTheJew">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaTheJew&layout=compact&theme=tokyonight&hide_border=true" />
 </a>
+-->
 
 <!-- 🐍 Contribution Snake (optional flair) -->
-<!--
+
 ![GitHub Contribution Snake](https://github.com/akaTheJew/akaTheJew/blob/output/github-contribution-grid-snake.svg)
--->
+
 
 ---
 
