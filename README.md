@@ -18,7 +18,7 @@ Tips:
 <!-- 🧑‍💻 Who Am I -->
 ### 💼 Who Am I
 - 🎓 **Mechatronics Engineer** – blending mechanics, electronics, and software for intelligent systems.
-- 💻 **Full Stack Developer** – creating secure, scalable backend systems with interactive frontends.
+- 💻 **Aspiring Full Stack Developer** – creating secure, scalable backend systems with interactive frontends.
 - 🔐 **Cybersecurity Explorer** – focused on ethical hacking and system hardening.
 - 📊 **Data Science & ML Enthusiast** – transforming raw data into smart decisions.
 
